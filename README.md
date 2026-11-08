@@ -1,82 +1,113 @@
 # Olá! Eu sou Thiago Oliveira 👋
 
-### Estudante de Engenharia de Software | Desenvolvedor em formação
+### Estudante de Engenharia de Software | Desenvolvedor de Software
 
-Sou estudante de Engenharia de Software na UNINTER, interessado em desenvolvimento de software, arquitetura de sistemas, automação de processos e bancos de dados.
+Sou estudante de Engenharia de Software na UNINTER e desenvolvedor em formação, interessado na criação de aplicações, arquitetura de sistemas, desenvolvimento backend e soluções que resolvam problemas reais.
 
-Tenho desenvolvido projetos práticos utilizando **C#, Python e SQL**, buscando transformar necessidades reais em soluções de software organizadas, eficientes e confiáveis.
+Tenho desenvolvido projetos práticos utilizando **C#, .NET, TypeScript, JavaScript, React, Node.js e Python**, trabalhando com bancos de dados relacionais, regras de negócio, APIs, automação e organização de sistemas.
 
-Meu foco é aprimorar continuamente minhas habilidades em desenvolvimento backend, aplicações web, integração com bancos de dados, regras de negócio e qualidade de software.
+Meu objetivo é construir soluções bem estruturadas, escaláveis e confiáveis, aprimorando continuamente meus conhecimentos em engenharia de software e desenvolvimento de aplicações.
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Linguagens**
+### Linguagens
 - C#
 - Python
+- TypeScript
+- JavaScript
 - SQL
 
-**Frameworks e tecnologias**
+### Frameworks e bibliotecas
 - .NET 10
 - ASP.NET Core MVC
 - Entity Framework Core
+- React
+- Vite
+- Node.js
+- Express
 - Pandas
 - SQLAlchemy
 - Pytest
 
-**Bancos de dados**
+### Bancos de dados e infraestrutura
 - PostgreSQL
 - SQLite
+- Prisma ORM
+- Docker
 
-**Ferramentas**
+### Ferramentas
 - Git
 - GitHub
 - Microsoft Excel
+- Visual Studio
+- VS Code
 
 ---
 
 ## 🚀 Projetos em destaque
 
+### 📦 StockWise — Sistema de Gestão de Estoque
+
+Sistema de gestão empresarial desenvolvido para centralizar operações de estoque, compras, vendas e controle de produtos.
+
+**Principais funcionalidades:**
+- Gerenciamento de produtos e categorias.
+- Cadastro de fornecedores e clientes.
+- Controle de compras e recebimentos parciais.
+- Registro de vendas, cancelamentos e devoluções.
+- Acompanhamento de movimentações de estoque.
+- Dashboard e relatórios gerenciais.
+- Exportação de relatórios em CSV, XLSX e PDF.
+- Auditoria de operações.
+- Controle de sessões, segurança e permissões por perfil.
+
+**Tecnologias:** TypeScript, React 19, Vite, Node.js, Express 5, PostgreSQL, Prisma ORM e Docker.
+
+**Evolução planejada:** transformação do sistema em uma plataforma SaaS multiempresa, com organizações, usuários, planos e assinaturas.
+
+🔗 [Acessar repositório StockWise](https://github.com/Thiago-tods/StockWise)
+
+---
+
 ### 📋 QuoteMaster — Sistema de Gestão de Orçamentos
 
-Aplicação web local desenvolvida em C# e .NET para gerenciamento de clientes, produtos, serviços e orçamentos comerciais.
+Aplicação desenvolvida em C# e .NET para gerenciamento de clientes, produtos, serviços e propostas comerciais.
 
 **Principais funcionalidades:**
 - Cadastro e gerenciamento de clientes.
 - Catálogo de produtos e serviços.
 - Criação e acompanhamento de orçamentos.
 - Cálculos financeiros realizados no servidor.
-- Geração de documentos PDF profissionais.
+- Geração de documentos PDF.
 - Persistência de dados com SQLite.
 - Arquitetura organizada em camadas.
-- Preparação para distribuição no Windows.
+- Configurações e personalização dos dados da empresa.
 
 **Tecnologias:** C#, .NET 10, ASP.NET Core MVC, Entity Framework Core, SQLite e QuestPDF.
 
 🔗 [Acessar repositório QuoteMaster](https://github.com/Thiago-tods/QuoteMaster)
 
+---
+
 ### 📊 Automação de Relatórios Comerciais
 
-Sistema desenvolvido em Python para automatizar o processamento de dados comerciais e a geração de relatórios.
+Sistema desenvolvido em Python para automatizar a importação, validação e processamento de dados comerciais, integrando planilhas, banco de dados e geração de relatórios.
 
 **Principais funcionalidades:**
-- Importação e validação de arquivos Excel e CSV.
-- Processamento e análise de dados.
+- Importação de arquivos Excel e CSV.
+- Validação e processamento de dados.
 - Integração com PostgreSQL.
+- Persistência de informações utilizando SQLAlchemy.
 - Geração automatizada de relatórios.
 - Envio de relatórios por e-mail.
-- Testes automatizados.
+- Testes automatizados com Pytest.
+- Configuração de ambiente de testes separado do banco de dados principal.
 
 **Tecnologias:** Python, Pandas, PostgreSQL, SQLAlchemy e Pytest.
 
 🔗 [Acessar repositório](https://github.com/Thiago-tods/projeto-analise-planilhas-py)
-
-### 💰 FinPlan — Sistema de Planejamento Financeiro
-
-Projeto em desenvolvimento voltado à organização financeira pessoal, controle de receitas e despesas e planejamento financeiro.
-
-O objetivo é desenvolver uma aplicação estruturada, com regras de negócio consistentes e foco na qualidade do software.
 
 ---
 
@@ -97,9 +128,11 @@ Bacharelado | 2026 – 2030
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade de estágio ou posição júnior na área de Tecnologia da Informação, especialmente em desenvolvimento de software, backend, automação e bancos de dados.
+Busco oportunidades de estágio ou posições júnior na área de desenvolvimento de software.
 
-Tenho interesse em aprender continuamente, colaborar com equipes e contribuir para o desenvolvimento de soluções tecnológicas.
+Tenho especial interesse em desenvolvimento backend, aplicações web, APIs, bancos de dados, arquitetura de sistemas e automação de processos.
+
+Gosto de transformar ideias em projetos funcionais, aprender novas tecnologias e desenvolver soluções que conciliem qualidade técnica e necessidades reais.
 
 ---
 
@@ -111,4 +144,6 @@ Tenho interesse em aprender continuamente, colaborar com equipes e contribuir pa
 
 ---
 
-*Em constante aprendizado e desenvolvimento.* 🚀
+<p align="center">
+  <i>Construindo, aprendendo e evoluindo um projeto de cada vez. 🚀</i>
+</p>
