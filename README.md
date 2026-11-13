@@ -2,7 +2,7 @@
 
 ### Estudante de Engenharia de Software | Desenvolvedor Full-Stack
 
-Sou estudante de Engenharia de Software na UNINTER e desenvolvedor em formação, com foco na construção de aplicações web e mobile, APIs, sistemas de gestão e automação de processos.
+Sou estudante de Engenharia de Software e desenvolvedor em formação, com foco na construção de aplicações web e mobile, APIs, sistemas de gestão e automação de processos.
 
 Desenvolvo projetos práticos com **TypeScript, JavaScript, C#, PHP, Python e Dart**, explorando diferentes arquiteturas, frameworks e bancos de dados. Tenho interesse em backend, integração de sistemas, modelagem de dados, qualidade de software e experiência do usuário.
 
