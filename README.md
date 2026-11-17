@@ -116,6 +116,35 @@ A web application for managing customers, products, services, quotations, and PD
 
 **Stack:** C# · .NET 10 · ASP.NET Core MVC · Entity Framework Core · SQLite · QuestPDF
 
+### 🤖 [Nexa AI](https://github.com/Thiago-tods/Nexa-AI)
+**Local AI Business Agent Platform**
+
+A web platform of AI-powered business agents that run locally using Ollama, without paid AI APIs or sending business data to the cloud. The agent answers questions from a company knowledge base, manages leads and support requests, and requires human approval for sensitive actions.
+
+- Streaming agent chat with intent classification, tool execution, and answers grounded in cited sources.
+- Local RAG pipeline for PDF, TXT, Markdown, and CSV documents, using PostgreSQL with pgvector.
+- CRM with leads, Kanban pipeline, activity history, notes, and support requests.
+- Human approval workflow for sensitive actions, with audit trails and idempotent execution.
+- Security controls including RBAC, rotating refresh tokens, rate limits, and prompt-injection defenses.
+
+**Stack:** Python 3.12 · FastAPI · LangGraph · Ollama · PostgreSQL 17 · pgvector · React 19 · TypeScript · Vite · Tailwind CSS · SQLAlchemy · Pytest · Vitest · Playwright
+
+### 📡 [PulseOps](https://github.com/Thiago-tods/PulseOps)
+**Website & API Monitoring / Incident Management**
+
+A SaaS platform for monitoring website and API availability, managing incidents, and notifying teams, built as a zero-infrastructure-cost portfolio project.
+
+- HTTP monitors (GET/HEAD) with configurable intervals, timeouts, expected status codes, and failure thresholds.
+- Automatic incident creation and resolution, with a 30-day history.
+- Encrypted webhook destinations and HMAC-signed notifications compatible with Slack and Discord.
+- Public status pages showing 30-day availability without exposing internal URLs or data.
+- Multi-tenant accounts and organizations, session management, refresh-token rotation, and audit logging.
+- SSRF protections for requests to user-supplied URLs.
+
+**Stack:** React 19 · TypeScript · Vite · NestJS 11 · PostgreSQL · Prisma 7 · Zod · Cloudflare Pages · GitHub Actions · Render · Neon
+
+**Live demo:** [pulseops-cq4.pages.dev](https://pulseops-cq4.pages.dev/)
+
 ### 📊 [Sales Reports Automation](https://github.com/Thiago-tods/projeto-analise-planilhas-py)
 **Business Reporting & Process Automation**
 
