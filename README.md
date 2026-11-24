@@ -145,6 +145,32 @@ A SaaS platform for monitoring website and API availability, managing incidents,
 
 **Live demo:** [pulseops-cq4.pages.dev](https://pulseops-cq4.pages.dev/)
 
+### 🔁 [RelayForge](https://github.com/Thiago-tods/relayforge)
+**Webhook Infrastructure & Event Delivery**
+
+A webhook infrastructure platform for receiving, persisting, processing, delivering, retrying, and monitoring webhook events, built around a modular monolith with independent worker processes.
+
+- HMAC-SHA256 signature verification, timestamp validation, and endpoint-scoped idempotency.
+- Transactional outbox pattern with PostgreSQL and durable messaging through NATS JetStream.
+- Independent API, outbox publisher, and delivery worker processes.
+- Multi-tenant organizations with role-based access control, secure sessions, and append-only audit events.
+- Delivery retries and monitoring; delivery is at-least-once.
+
+**Stack:** Go · PostgreSQL 17 · Redis · NATS JetStream · React · TypeScript · Vite · Docker Compose
+
+### 🏝️ [Dynamic Island for Windows](https://github.com/Thiago-tods/DynamicIsland)
+**Native Windows Desktop Utility**
+
+A floating, Apple-inspired Dynamic Island for Windows that brings useful desktop information and quick controls into a compact interface.
+
+- Clock and stopwatch, media controls, and system monitoring for CPU, RAM, and supported NVIDIA GPUs.
+- Windows toast notifications with configurable privacy modes.
+- Weather forecasts powered by Open-Meteo and download progress tracking.
+- Customizable appearance, global shortcuts, system tray integration, and multi-monitor positioning.
+- Native WPF application with no Electron, embedded web view, or telemetry.
+
+**Stack:** C# 13 · .NET 10 · WPF · CommunityToolkit.Mvvm · Windows APIs · xUnit · Inno Setup
+
 ### 📊 [Sales Reports Automation](https://github.com/Thiago-tods/projeto-analise-planilhas-py)
 **Business Reporting & Process Automation**
 
